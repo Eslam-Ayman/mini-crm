@@ -1,4 +1,4 @@
-# Telegram Chat Bot (PHP)
+# Mini - Customer Relationship Manager (CRM) (LARAVEL PHP)
 ## About
 Mini-CRM . Basically, project to manage companies and their employees .
 helping managers to manipulate their companies and manipulate their Employees .
